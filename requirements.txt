@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+bs4
+requests
+lxml
+jupyter
+xgboost
+-e .
