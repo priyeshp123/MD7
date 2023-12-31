@@ -5,5 +5,8 @@ bs4
 requests
 lxml
 jupyter
+scikit-learn
 xgboost
--e .
+imbalanced-learn
+pipeline
+pandas-profiling
